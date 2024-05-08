@@ -1,0 +1,24 @@
+
+path: /home/x-x/Python code/map/dataset # dataset root dir 
+train: images/train # train images (relative to 'path')
+val: images/val # val images (relative to 'path')
+
+
+#Classes
+names:
+  0: small knoll
+  1: small elongated knoll
+  2: small depression
+  3: pit
+  4: prominent landform feature
+  5: rocky pit
+  6: medium boulder
+  7: boulder cluster
+  8: boulder field single symbol
+  9: prominent large tree
+  10: prominent bush or tree
+  11: prominent vegetation feature
+  12: high tower
+  13: cairn
+  14: prominent man-made feature - ri
+  15: prominent man-made feature - x
